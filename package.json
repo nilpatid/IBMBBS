@@ -11,7 +11,7 @@
     "cfenv": "^1.0.3",
     "express": "^4.13.3",
     "lodash": "^4.13.1",
-    "mapbox-gl": "^1.1.1",
+    "mapbox-gl": "^1.13.3",
     "request": "^2.67.0"
   },
   "repository": {
